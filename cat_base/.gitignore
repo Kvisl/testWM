@@ -1,0 +1,6 @@
+.env
+schema.yaml
+.venv/
+.idea/
+__pycache__/
+
